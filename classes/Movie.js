@@ -1,6 +1,8 @@
 // import the Media class:
 
-// create your Movie class:
+class Movie {
+    
+}
 
 // don't change below
 module.exports = Movie;
